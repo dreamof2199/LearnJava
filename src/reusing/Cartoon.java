@@ -11,7 +11,8 @@ class Art {
 
 	public class Cartoon extends Drawing {
 //	  public Cartoon() { print("Cartoon constructor"); }
-	  public static void main(String[] args) {
+	  @SuppressWarnings("unused")
+	public static void main(String[] args) {
 	    Cartoon x = new Cartoon();
 	  }
 	}

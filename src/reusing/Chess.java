@@ -21,6 +21,7 @@ public class Chess extends BoardGame {
 		print("Chess constructor");
 	}
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		Chess x = new Chess();
 	}

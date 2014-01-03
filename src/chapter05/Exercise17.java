@@ -14,6 +14,7 @@ public class Exercise17 {
 		System.out.println("print function");
 	}
 	
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		SConstructor[] sc;
 		sc = new SConstructor[]{new SConstructor("ssss"),new SConstructor("tttt")};

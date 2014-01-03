@@ -13,6 +13,7 @@ class Tank{
 }
 
 public class Exercise12 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		Tank t = new Tank();
 //		t.takeOut();
